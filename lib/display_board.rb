@@ -4,7 +4,7 @@ puts "   |    |   "
 puts " -----------"
 puts "   |    |   "
 def display_board(
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "])
+board = [" ", " ", " ", " ", "X", " ", " ", " ", " "])
 puts 'display board'
 puts " #{board[0]} | #{board[1]} | #{board[2]} "
 puts "-----------"
