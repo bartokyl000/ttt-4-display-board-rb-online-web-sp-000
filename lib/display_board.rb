@@ -5,7 +5,7 @@ puts " -----------"
 puts "   |    |   "
 def display_board(
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "])
-puts ''
+puts 'display board'
 
 
   
